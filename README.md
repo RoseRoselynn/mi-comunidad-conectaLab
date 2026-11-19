@@ -52,19 +52,17 @@ Consulta nuestra [Guía de contribución](CONTRIBUTING.md) para conocer las dist
 
 ## Integrantes del Grupo 5
 
-La siguiente distribución corresponde a los roles definidos en el Reto 5 y queda pendiente de confirmación para el proyecto final.
-
-| Integrante | Usuario de GitHub | Rol en el Reto 5 |
-| --- | --- | --- |
-| Guillermo Javier González Montenegro | Por confirmar | Coordinación general y seguimiento |
-| Olmedo Alexander Alonso Madrigales | olmedoalonso | Investigación y verificación de fuentes |
-| Laura Victoria Vente Urbano | lventeu | Redacción de la guía |
-| Roselyn Montenegro Othón | Roseroselynn | Traducción y claridad del lenguaje |
-| Jeniree Parra Rocco | jenireepr | Revisión técnica |
-| Fernando Ulises Barría Cornejo | fbarriac | Créditos, evidencias y uso de IA |
-| Asael | Por confirmar | Edición Markdown y gestión en GitHub |
-| Bianca | Vianvavc | Facilitación de pruebas y retroalimentación |
-| Esteban Bejerano | Esteban2026-source | Documentación y continuidad |
+| Integrante | Usuario de GitHub |
+| --- | --- |
+| Guillermo Javier González Montenegro | Por confirmar |
+| Olmedo Alexander Alonso Madrigales | olmedoalonso |
+| Laura Victoria Vente Urbano | lventeu |
+| Roselyn Montenegro Othón | Roseroselynn |
+| Jeniree Parra Rocco | jenireepr |
+| Fernando Ulises Barría Cornejo | fbarriac |
+| Asael | Por confirmar |
+| Bianca | Vianvavc |
+| Esteban Bejerano | Esteban2026-source |
 
 ## Continuidad de la comunidad
 
