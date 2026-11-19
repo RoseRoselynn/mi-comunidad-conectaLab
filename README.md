@@ -55,14 +55,13 @@ Consulta nuestra [Guía de contribución](CONTRIBUTING.md) para conocer las dist
 
 | Integrante | Usuario de GitHub |
 | --- | --- |
-| Guillermo Javier González Montenegro | Por confirmar |
+| Guillermo Javier González Montenegro | Berkellio |
 | Olmedo Alexander Alonso Madrigales | olmedoalonso |
 | Laura Victoria Vente Urbano | lventeu |
 | Roselyn Montenegro Othón | Roseroselynn |
 | Jeniree Parra Rocco | jenireepr |
 | Fernando Ulises Barría Cornejo | fbarriac |
-| Asael | Por confirmar |
-| Bianca | Vianvavc |
+| Vianca Vidal Cuevas Jordan | Vianvavc |
 | Esteban Bejerano | Esteban2026-source |
 
 ## Continuidad de la comunidad
