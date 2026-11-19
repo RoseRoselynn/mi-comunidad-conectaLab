@@ -1,5 +1,6 @@
 # mi-comunidad-proyecto-final
-# Activación Comunitaria
+# ConectaLab
+Conectamos personas, compartimos conocimiento y activamos comunidades.
 
 **Grupo 5 | Curso de Activadores de Comunidades de Práctica · SINT-741**
 
